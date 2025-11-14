@@ -1,3 +1,5 @@
+#Explore Generative AI with the Gemini API in Vertex AI
+
 
 [GSP1210_Multimodality with Gemini](https://github.com/acvetochka/googleLabs/blob/main/Explore%20Generative%20AI%20with%20the%20Gemini%20API%20in%20Vertex%20AI/intro_multimodal_use_cases.ipynb)
 
